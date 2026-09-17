@@ -1,0 +1,2 @@
+# Không cần cài thư viện ngoài Python.
+# Bơ Shop dùng thư viện chuẩn của Python.
